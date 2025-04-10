@@ -61,14 +61,19 @@ I'm a data engineering professional with expertise in building scalable data pla
 
 <div align="center">
   <a href="https://aws.amazon.com/verification">
-    <img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified Cloud Practitioner" />
+    <img src="https://img.shields.io/badge/AWS%20Certified-Data%20Engineer%20Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified Data Engineer Associate" />
   </a>
-  <p><b>Issued:</b> July 17, 2024 • <b>Expires:</b> July 17, 2027 • <b>ID:</b> 22215582a8c14d67a720cb199d9b7f15</p>
+  <p><b>Issued:</b> March 16, 2025 • <b>Expires:</b> March 16, 2028 • <b>ID:</b> 94e80b3042244f1ea10f61f72497412a</p>
   
   <a href="https://aws.amazon.com/verification">
     <img src="https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified Solutions Architect Associate" />
   </a>
   <p><b>Issued:</b> August 1, 2024 • <b>Expires:</b> August 1, 2027 • <b>ID:</b> 9a494173a1a94e928c3a6190bf18ac66</p>
+  
+  <a href="https://aws.amazon.com/verification">
+    <img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified Cloud Practitioner" />
+  </a>
+  <p><b>Issued:</b> July 17, 2024 • <b>Expires:</b> July 17, 2027 • <b>ID:</b> 22215582a8c14d67a720cb199d9b7f15</p>
 </div>
 
 ## 🛠️ Featured Projects
